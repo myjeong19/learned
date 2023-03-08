@@ -1,0 +1,10 @@
+.game-board {
+  text-align: center;
+  height: 15rem;
+  width: 15rem;
+}
+
+.game-info {
+  text-align: center;
+  width: 15rem;
+}
